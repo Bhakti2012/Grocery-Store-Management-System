@@ -4,7 +4,7 @@ The Grocery Store Management System is a user-friendly and robust web applicatio
 
 # Key Features:
 
-# Inventory Management:
+1.Inventory Management:
 
 Easily add, update, and remove products from the inventory.
 
@@ -12,7 +12,7 @@ Track product quantities, expiry dates, and reorder points.
 
 Categorize products for better organization.
 
-# Point of Sale (POS):
+2.Point of Sale (POS):
 
 Maintain a database of customer information.
 
@@ -20,7 +20,7 @@ Track customer purchase history.
 
 Implement loyalty programs and discounts for regular customers.
 
-# Security:
+3.Security:
 
 Secure login and authentication system.
 
@@ -28,13 +28,13 @@ Role-based access control to protect sensitive data.
 
 Regular data backups to prevent data loss.
 
-# Notifications:
+4.Notifications:
 
 Receive alerts for low stock items or impending expirations.
 
 Notify customers about promotions, discounts, and new arrivals.
 
-# Multi-Device Support:
+5.Multi-Device Support:
 
 Access the system from desktops, laptops, tablets, and smartphones.
 
