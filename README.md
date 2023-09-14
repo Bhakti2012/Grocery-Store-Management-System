@@ -12,7 +12,7 @@ Track product quantities, expiry dates, and reorder points.
 
 Categorize products for better organization.
 
-2. Point of Sale (POS):
+2.Point of Sale (POS):
 
 Maintain a database of customer information.
 
